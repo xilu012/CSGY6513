@@ -1,2 +1,0 @@
-StudentID	BooksBorrowed
-student101	40

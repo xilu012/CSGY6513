@@ -1,6 +1,0 @@
-Book	Count
-Introduction To Algorithms	82
-Database Systems	68
-Computer Networks	58
-Data Structures	55
-Operating Systems	48
