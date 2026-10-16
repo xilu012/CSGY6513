@@ -1,0 +1,6 @@
+Word	Length	Frequency
+indiscriminately	16	2
+impracticability	16	1
+incomprehensible	16	1
+unenforceability	16	1
+unreasonableness	16	1

@@ -1,0 +1,11 @@
+Word	Frequency
+the	17121
+to	11622
+of	10786
+and	8814
+a	7040
+i	6480
+in	5852
+he	5054
+that	4120
+was	4004
