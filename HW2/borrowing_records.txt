@@ -1,0 +1,453 @@
+student119,Machine Learning Basics
+student107,Data Structures
+student127,Data Structures
+student114,Linear Algebra
+student110,Introduction to Algorithms
+student128,Discrete Mathematics
+student128,Computer Architecture
+student107,Data Structures
+student128,Computer Architecture
+student121,Data Structures
+student122,Database Systems
+student113,Linear Algebra
+student101,Introduction to Algorithms
+student109,Cryptography Essentials
+student112,Computer Networks
+student128,Database Systems
+student119,Software Engineering
+student113,Machine Learning Basics
+student124,Operating Systems
+student120,Data Structures
+student128,Operating Systems
+,Computer Networks
+student109,Data Structures
+student123,Database Systems
+student118,Operating Systems
+student106,Operating Systems
+student126,Compiler Design
+student111,Compiler Design
+student105,Computer Networks
+student112,Linear Algebra
+student101,mACHINE lEARNING bASICS
+student104,Operating Systems
+student110,Data Structures
+student123,Data Structures
+student128,Introduction to Algorithms
+student104,Database Systems
+student102,Introduction to Algorithms
+student126,Discrete Mathematics
+student128,Computer Networks
+student125,Discrete Mathematics
+student118,Artificial Intelligence
+student118,Software Engineering
+student113,Introduction to Algorithms
+student120,Computer Networks
+student112,Computer Networks
+student127,Computer Networks
+student119,Introduction to Algorithms
+student119,Operating Systems
+student106,Database Systems
+student128,Database Systems
+student107,
+student103,Machine Learning Basics
+student107,Database Systems
+student120,Database Systems
+student107,Introduction to Algorithms
+student115,Introduction to Algorithms
+student116,Introduction to Algorithms
+student105,Computer Networks
+student115,Computer Architecture
+student101,Operating Systems
+student112,Computer Networks
+student112,DATA STRUCTURES
+student106,Data Structures
+student107,Computer Networks
+student106,Operating Systems
+student101,Software Engineering
+student128,Discrete Mathematics
+student101,Database Systems
+student107,Compiler Design
+student118,Database Systems
+student120,computer networks
+student129,Data Structures
+student101,Operating Systems
+student103,Introduction to Algorithms
+student126,Database Systems
+student118,Data Structures
+student104,Database Systems
+student115,Computer Architecture
+student110,Operating Systems
+student117,Compiler Design
+student104,Database Systems
+student107,Database Systems
+student129,Database Systems
+student115,Data Structures
+student104,   Discrete   Mathematics  
+student107,Compiler Design
+student113,Computer Networks
+student106,Software Engineering
+student130,Introduction to Algorithms
+student124,Computer Networks
+student107,Compiler Design
+student115,Introduction to Algorithms
+  student126  ,  Probability and Statistics  
+student103,Introduction to Algorithms
+student101,Software Engineering
+student109,Computer Networks
+student123,Computer Networks
+student114,Computer Networks
+student114,Data Structures
+student111,Introduction to Algorithms
+student120,Database Systems
+student107,Data Structures
+student121,Computer Networks
+student118,Probability and Statistics
+student113,machine learning basics
+student101,Database Systems
+  student104  ,  Data Structures  
+student101,Introduction to Algorithms
+student119,Data Structures
+student129,Compiler Design
+student120,Discrete Mathematics
+student117,Computer Networks
+student108,Operating Systems
+student120,Database Systems
+student101,Data Structures
+student115,Introduction to Algorithms
+student125,Computer Networks
+student103,Database Systems
+student110,Introduction to Algorithms
+student113,Database Systems
+student102,Machine Learning Basics
+student124,Introduction to Algorithms
+student118,Operating Systems
+student104,Data Structures
+student126,Compiler Design
+student104,Introduction to Algorithms
+student101,Cryptography Essentials
+student129,Database Systems
+student128,Introduction to Algorithms
+student126,Operating Systems
+student109,Computer Networks
+student109,Operating Systems
+student120,Introduction to Algorithms
+student129,Introduction to Algorithms
+student101,Machine Learning Basics
+student115,Data Structures
+student101,Distributed Systems
+student123,Introduction to Algorithms
+student112,Data Structures
+student119,Computer Networks
+student107,Linear Algebra
+student107,Software Engineering
+student112,Artificial Intelligence
+student115,Introduction to Algorithms
+student112,Distributed Systems
+student101,Operating Systems
+student129,Artificial Intelligence
+student107,Introduction to Algorithms
+student123,Computer Networks
+student127,Software Engineering
+student107,Database Systems
+student120,Distributed Systems
+student111,Machine Learning Basics
+student115,Introduction to Algorithms
+student112,Introduction to Algorithms
+student128,Computer Networks
+student104,Discrete Mathematics
+student115,Computer Networks
+student129,Data Structures
+student115,Database Systems
+student126,Distributed Systems
+  student110  ,  Operating Systems  
+student105,Database Systems
+student104,Cryptography Essentials
+student107,Operating Systems
+student108,Linear Algebra
+student112,Machine Learning Basics
+student129,Database Systems
+student128,Introduction to Algorithms
+student108
+student108,Computer Networks
+student103,Introduction to Algorithms
+   
+student101,Computer Networks
+student103,computer networks
+student122,Introduction to Algorithms
+student114,Cryptography Essentials
+student101,Operating Systems
+student101,   Database   Systems  
+student101,Computer Networks
+student128,Operating Systems
+student104,artificial intelligence
+student101,   Distributed   Systems  
+student115,Operating Systems
+student128,Introduction to Algorithms
+student110,Machine Learning Basics
+student124,Discrete Mathematics
+student124,Computer Networks
+student110,Data Structures
+student110,Data Structures
+student129,Introduction to Algorithms
+student114,Probability and Statistics
+student112,dATABASE sYSTEMS
+student118,Database Systems
+student104,Introduction to Algorithms
+student112,Introduction to Algorithms
+student119,Database Systems
+student130,Computer Architecture
+student125,oPERATING sYSTEMS
+student101,Operating Systems
+student126,Database Systems
+student109,Data Structures
+student109,Software Engineering
+student106,PROBABILITY AND STATISTICS
+student128,Database Systems
+student129,Introduction to Algorithms
+student107,Introduction to Algorithms
+student118,Computer Networks
+student106,Operating Systems
+student101,Introduction to Algorithms
+student119,Introduction to Algorithms
+student110,Operating Systems
+student107,Introduction to Algorithms
+student110,Compiler Design
+student115,Artificial Intelligence
+student105,Compiler Design
+student113,Computer Networks
+student123,Compiler Design
+student109,Machine Learning Basics
+student122,Computer Networks
+student101,Data Structures
+student101,Software Engineering
+student112,Operating Systems
+student111,Computer Architecture
+student108,Data Structures
+student109,Computer Networks
+student109,Database Systems
+student108,Introduction to Algorithms
+student127,Data Structures
+student101,Database Systems
+  student122  ,  Machine Learning Basics  
+student114,Computer Networks
+student126,Machine Learning Basics
+student127,Operating Systems
+student101,Operating Systems
+student103,Computer Networks
+student115,Compiler Design
+student127,Introduction to Algorithms
+
+student118,Introduction to Algorithms
+student110,Software Engineering
+student112,Discrete Mathematics
+student105,Discrete Mathematics
+student108,Software Engineering
+student107,Operating Systems
+student107,Linear Algebra
+student115,Cryptography Essentials
+student110,Database Systems
+student119,Operating Systems
+student115,Machine Learning Basics
+student128,Machine Learning Basics
+student122,Computer Architecture
+student103,Distributed Systems
+student119,Database Systems
+student118,Discrete Mathematics
+student126,Linear Algebra
+student118,Software Engineering
+student109,Database Systems
+student106,Data Structures
+student101,Data Structures
+student106,Database Systems
+  student129  ,  Machine Learning Basics  
+student102,COMPUTER NETWORKS
+student123,Data Structures
+student130,Database Systems
+student119,Machine Learning Basics
+student115,Operating Systems
+student113,Introduction to Algorithms
+student116,Operating Systems
+student121,Data Structures
+student124,Database Systems
+student111,Database Systems
+student106,Database Systems
+student106,Machine Learning Basics
+student129,Computer Networks
+student119,   Computer   Networks  
+student115,Discrete Mathematics
+student109,Operating Systems
+student129,Operating Systems
+student112,Cryptography Essentials
+student107,Discrete Mathematics
+student113,Computer Architecture
+student109,Algorithms, Design and Analysis
+student110,Computer Networks
+student127,Introduction to Algorithms
+student101,Introduction to Algorithms
+student103,Discrete Mathematics
+student111,Introduction to Algorithms
+student124,Database Systems
+student123,Data Structures
+student119,Introduction to Algorithms
+student106,Software Engineering
+student106,Operating Systems
+student115,Computer Networks
+student107,Computer Networks
+student106,Database Systems
+student127,Introduction to Algorithms
+student107,Operating Systems
+student105,Operating Systems
+student122,Introduction to Algorithms
+student101,Operating Systems
+student105,Distributed Systems
+student109,Database Systems
+student130,discrete mathematics
+student113,computer networks
+student109,Introduction to Algorithms
+student108,Data Structures
+student105,Computer Architecture
+student115,Introduction to Algorithms
+student114,Introduction to Algorithms
+student128,Software Engineering
+student112,Operating Systems
+student104,Computer Networks
+student107,Machine Learning Basics
+student101,Machine Learning Basics
+student115,Data Structures
+student110,   
+student113,Database Systems
+student119,Introduction to Algorithms
+student110,Database Systems
+student101,Artificial Intelligence
+student113,Data Structures
+student120,Database Systems
+student101,INTRODUCTION TO ALGORITHMS
+student110,Database Systems
+student109,Machine Learning Basics
+student106,Introduction to Algorithms
+student105,Introduction to Algorithms
+,
+student110,Computer Networks
+student128,Discrete Mathematics
+student114,computer networks
+student119,Data Structures
+student129,Introduction to Algorithms
+  student122  ,  Operating Systems  
+student103,Discrete Mathematics
+student107,Introduction to Algorithms
+student118,Data Structures
+student119,Data Structures
+student103,Database Systems
+student103,Data Structures
+student107,Introduction to Algorithms
+student101,Introduction to Algorithms
+student127,   Database   Systems  
+student102,Data Structures
+student102,Operating Systems
+student128,Introduction to Algorithms
+student107,Introduction to Algorithms
+student110,Computer Networks
+student120,Database Systems
+student107,Introduction to Algorithms
+student126,Computer Architecture
+student114,Database Systems
+student115,Computer Networks
+student107,Introduction to Algorithms
+student118,Computer Networks
+student126,Computer Networks
+student115,Discrete Mathematics
+student115,Database Systems
+student120,Computer Networks
+student101,Introduction to Algorithms
+student115,Computer Networks
+student102,Artificial Intelligence
+student115,Operating Systems
+student126,Discrete Mathematics
+student101,Probability and Statistics
+student102,Introduction to Algorithms
+student105,Database Systems
+student106,Discrete Mathematics
+student124,Introduction to Algorithms
+student106,Data Structures
+student104,Discrete Mathematics
+student101,Discrete Mathematics
+student115,Database Systems
+student115,Introduction to Algorithms
+  student113  ,  Computer Networks  
+student108,Computer Architecture
+student107,Data Structures
+student119,Operating Systems
+student126,Discrete Mathematics
+student103,Database Systems
+student112,Probability and Statistics
+student120,Database Systems
+student127,Operating Systems
+student128,Database Systems
+student111,Machine Learning Basics
+student103,Database Systems
+student111,Operating Systems,ExtraField
+student119,Operating Systems
+student129,Machine Learning Basics
+student126,Distributed Systems
+student112,Introduction to Algorithms
+student120,Machine Learning Basics
+student127,Computer Networks
+student128,Computer Architecture
+student127,Probability and Statistics
+student110,Data Structures
+student108,Data Structures
+student115,Cryptography Essentials
+student109,Computer Architecture
+student127,Database Systems
+student128,Database Systems
+student120,Database Systems
+student111,Introduction to Algorithms
+student109,Introduction to Algorithms
+student117,Computer Architecture
+student116,Introduction to Algorithms
+student113,Data Structures
+student113,Introduction to Algorithms
+student112,Operating Systems
+student124,Linear Algebra
+student119,Introduction to Algorithms
+student103,Software Engineering
+student126,Data Structures
+student101,Introduction to Algorithms
+student113,Data Structures
+student121,Introduction to Algorithms
+student112,Data   Structures
+student119,sOFTWARE eNGINEERING
+student127,Database Systems
+student107,Operating Systems
+student101,Introduction to Algorithms
+student110,Data Structures
+student124,Introduction to Algorithms
+student104,Introduction to Algorithms
+student101,Computer Networks
+student105,Computer Architecture
+student107,Data Structures
+student115,Computer Networks
+student101,cRYPTOGRAPHY eSSENTIALS
+student109,Introduction to Algorithms
+student114,Computer Networks
+student121,Data Structures
+student106,Database Systems
+student123,Machine Learning Basics
+student101,Software Engineering
+student129,Computer Networks
+student113,Data Structures
+student125,Database Systems
+student127,Database Systems
+student113,Data Structures
+student107,Discrete Mathematics
+student102,Introduction to Algorithms
+student113,Computer Networks
+student103,Machine Learning Basics
+student120,Operating Systems
+student105,Data Structures
+student119,Introduction to Algorithms
+student123,Database Systems
+student107,Database Systems
+student104,Computer Architecture
+student129,Computer Networks
+student127,Operating Systems

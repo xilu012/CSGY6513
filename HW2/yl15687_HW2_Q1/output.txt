@@ -1,0 +1,6 @@
+Letter	Count
+t	939
+a	505
+s	500
+c	363
+r	263
